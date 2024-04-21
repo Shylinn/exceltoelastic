@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.13.1",
+    "elasticsearch": "^16.7.3",
+    "xlsx": "^0.18.5"
+  }
+}
